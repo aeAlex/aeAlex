@@ -1,4 +1,4 @@
-[# 💫 About Me:
+# 💫 About Me:
 🎓  I am currently an Informatics student at TUM<br>📱  In my spare time, I am working on some personal Projects<br>🚀  Want to collaborate?
 
 
